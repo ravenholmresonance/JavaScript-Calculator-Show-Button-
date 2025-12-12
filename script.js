@@ -47,4 +47,4 @@ function addPost(t,b){
   body.innerHTML=b
   postItem.append(title,body)
   posts.append(postItem)
-}      
+}
